@@ -1,0 +1,15 @@
+img {
+  width: 300px;
+}
+
+#turtle {
+  display: none;
+}
+
+#snake {
+  display: none;
+}
+
+#wombat {
+  display: none;
+}
